@@ -1,0 +1,25 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# Environment & secrets
+.env
+
+# Generated runtime artifacts
+logs/
+src/detected_output.jpg
+src/response.mp3
+
+# ML model weights (too large for git)
+*.pt
+*.pth
+
+# Training datasets
+nature3_data/
+flowers_data/
+inat_data/
+
+# IDE & tools
+.claude/
+.antigravitycli/
