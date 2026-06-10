@@ -211,22 +211,4 @@ All application settings are centralized in `src/config/settings.py` and loaded 
 - Image-based plant detection and classification
 - Off-topic filtering with graceful fallbacks
 
-## References
 
-- [Microsoft Semantic Kernel Documentation](https://microsoft.github.io/semantic-kernel/)
-- [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
-- [Azure AI Search](https://learn.microsoft.com/en-us/azure/search/)
-- [Sentence Transformers](https://www.sbert.net/)
-- [YOLOv8 Documentation](https://github.com/ultralytics/ultralytics)
-
-## License
-
-This project is provided as-is for educational and research purposes.
-
-## Author
-
-Yahya Limbo - YahyaLimbo
-
-## Support
-
-For issues, questions, or contributions, please open an issue on the GitHub repository.
